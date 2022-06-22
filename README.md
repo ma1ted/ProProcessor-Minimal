@@ -1,19 +1,15 @@
 <img src="https://user-images.githubusercontent.com/59726149/175109651-aadef90c-edf7-4ad0-96ca-bdb4a743f5c1.png" width="50%" />
-
-# ProProcessor
   
-## A Template built for the Replit Template Jam, combining Pug, Sass and CoffeeScript, bundled with Parcel.
+## A Template built for the [Replit Template Jam](https://blog.replit.com/template-jam), combining Pug, Sass and CoffeeScript, bundled with Parcel.
 
 / proʊ proʊ sɛs ər /<br>
 *noun*<br>
 Portmanteau of *professional preprocessor*. Trio of web preprocessors designed to make creating websites simple (and eliminate curly braces).
 
-#### The Replit Template Jam Blog Post can be found [here](https://blog.replit.com/template-jam)
-
 ---
 
 ## Running
-[![Run on Replit badge](https://replit.com/badge/github/malted/ProProcessor-Minimal)](https://replit.com/@malted/ProProcessor-Minimal)
+[![Run on Replit badge](https://user-images.githubusercontent.com/59726149/175111010-9d722eb3-9497-4c0f-817b-7cc2ccc9b40d.svg)](https://replit.com/@malted/ProProcessor-Minimal)
 
 Run `npm run start` to start the development server
 
@@ -28,6 +24,8 @@ Website styling is written in [Sass](https://sass-lang.com), which compiles down
 
 An example stylesheet can be found at `/src/styles/style.sass`
 Additional components can be found in the `components` directory in the same parent directory.
+
+
 
 ### Scripts
 Website logic is written in [CoffeeScript](https://coffeescript.org), which compiles down to vanilla JavaScript.
