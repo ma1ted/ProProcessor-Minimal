@@ -6,10 +6,8 @@
 *noun*<br>
 Portmanteau of *professional preprocessor*. Trio of web preprocessors designed to make creating websites simple (and eliminate curly braces).
 
----
-
 ## Running
-[![Run on Replit badge](https://user-images.githubusercontent.com/59726149/175111010-9d722eb3-9497-4c0f-817b-7cc2ccc9b40d.svg)](https://replit.com/@malted/ProProcessor-Minimal)
+[![Run on Replit badge](https://replit.com/badge/github/malted/ProProcessor-Minimal)](https://replit.com/@malted/ProProcessor-Minimal)
 
 Run `npm run start` to start the development server
 
