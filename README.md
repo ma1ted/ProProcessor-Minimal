@@ -1,4 +1,7 @@
+<img src="https://user-images.githubusercontent.com/59726149/175109651-aadef90c-edf7-4ad0-96ca-bdb4a743f5c1.png" width="50%" />
+
 # ProProcessor
+  
 ## A Template built for the Replit Template Jam, combining Pug, Sass and CoffeeScript, bundled with Parcel.
 
 / proʊ proʊ sɛs ər /<br>
